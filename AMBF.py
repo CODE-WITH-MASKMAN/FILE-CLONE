@@ -3,7 +3,7 @@ import platform
 import sys
 import time
 import ctypes
-os.system('xdg-open https://example.com') 
+os.system('xdg-open https://t.me/+MZXNNEr-SeYxYzFl') 
 
 try:
     import requests
