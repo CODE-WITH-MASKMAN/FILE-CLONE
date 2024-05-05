@@ -17,9 +17,9 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
     print('WELCOME 64BIT USER')
-    crack_lib = ctypes.CDLL('./Data/script/crack.so')
+    crack_lib = ctypes.CDLL('./Data/script/crack_enc.py')
 
 elif bit == '32bit':
     print('WELCOME 32BIT USER')
-    crack_lib = ctypes.CDLL('./Data/script/crack.so')
+    crack_lib = ctypes.CDLL('./Data/script/crack_enc.py')
 
