@@ -22,7 +22,7 @@ git clone https://github.com/CODE-WITH-MASKMAN/FILE-CLONE
 
 cd FILE-CLONE
 
-python AMBF.py
+python run.py
 
 
 #------(END)------#
