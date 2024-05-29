@@ -1,10 +1,23 @@
-DISCLAIMER!
-This Tool(script) is for educational purpose only. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, edu
+<h1 align="center">
+ FILE CLONING TOOL BITCHS 🗿
+</h1>
+</div>
+<p align="center">
+  MADE WITH BY <a href="https://github.com/CODE-WITH-MASKMAN">𝙎𝙐𝙂𝘼𝙍 𝘿𝘼𝘿𝘿𝙔 愛</a>
+</p>
+<p align="center">
+ 
+## Link Download Termux 🤍
+👉🏻 [Click Here](https://f-droid.org/repo/com.termux_118.apk) 👈🏻
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000¢er=true&vCenter=true&width=350&height=55&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DIRESPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
+ 
 
-#-------------(HOW TO USE THIS TOOL)-----------#
-pkg update
 
-pkg upgrade
+ 
+## Single Command 💁
+```ruby
+ pkg upgrade
 
 pkg install python
 
@@ -23,6 +36,9 @@ git clone https://github.com/CODE-WITH-MASKMAN/FILE-CLONE
 cd FILE-CLONE
 
 python run.py
-
-
-#------(END)------#
+```
+<img src="https://github.com/CODE-WITH-MASKMAN/FILE-CLONE/blob/main/Picsart_24-05-29_12-15-43-811.jpg" />
+<img src="https://github.com/CODE-WITH-MASKMAN/FILE-CLONE/blob/main/Picsart_24-05-19_06-50-26-111.jpg" />
+  
+# Thank You For Your Support ❤️😘
+ 
