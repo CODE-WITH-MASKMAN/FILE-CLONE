@@ -17,7 +17,7 @@
  
 ## Single Command 💁
 ```ruby
- pkg upgrade
+pkg upgrade
 
 pkg install python
 
